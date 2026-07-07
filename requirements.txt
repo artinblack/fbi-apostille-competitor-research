@@ -1,0 +1,9 @@
+requests==2.32.3
+firecrawl-py==1.9.0
+gspread==6.1.2
+google-auth==2.38.0
+google-auth-oauthlib==1.2.1
+python-dotenv==1.0.1
+streamlit==1.35.0
+pandas==2.2.2
+playwright==1.44.0
